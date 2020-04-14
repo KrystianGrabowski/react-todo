@@ -13,3 +13,22 @@ a {
   color: #555;
   text-decoration: none;
 }
+
+/* Custom styles */
+
+.container {
+  padding: 0 1.2rem;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 9px 22px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #777;
+}
